@@ -5,5 +5,5 @@
 结尾感谢嘉立创免费打印活动，以及嘉立创开源的老哥。
 此版本加入XT60卧头、XT60直头。(只能同时焊接一个，建议焊接弯头)
 
-焊接时注意正负区分。
-4.1的孔是拿来嵌入热塑螺母的。
+<font color=Aqua	 size=72>color=gray</font>焊接时注意正负区分。
+<font color=Aqua	 size=72>color=gray</font>4.1的孔是拿来嵌入热塑螺母的。
